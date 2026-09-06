@@ -1,0 +1,23 @@
+{
+  "repo": "minitab-2026-statistical-analysis-professional-suite",
+  "product": "Minitab 2026 Statistical Analysis Professional Suite",
+  "kind": "analytics",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "analytics",
+  "topics": [
+    "minitab-2026",
+    "quality-stats",
+    "control-charts",
+    "doe-analysis",
+    "capability-study",
+    "minitab-setup-failed-fix",
+    "how-to-install-minitab",
+    "minitab-windows",
+    "minitab-desktop-2026",
+    "minitab-desktop-package"
+  ],
+  "site": "toolix.me"
+}
